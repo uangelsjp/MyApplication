@@ -18,7 +18,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="서혜승"
+        android:text="@string/text_name"
         android:id="@+id/button_01"
         android:layout_below="@+id/textView"
         android:layout_centerHorizontal="true"
